@@ -1,4 +1,5 @@
-package com.Anudip;
+
+package com.Anudip.Thursday_Lap_Practical;
 
 import java.util.Scanner;
 
